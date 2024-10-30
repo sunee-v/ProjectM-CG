@@ -1,4 +1,4 @@
-# ProjectM-CG
+# INFR 1350U – Game Engine Design & Implementation
  Intro to Comptuer Graphics Project M forked version
 
  *Group and Contributions*

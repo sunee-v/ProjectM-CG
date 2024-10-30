@@ -1,4 +1,4 @@
-# INFR 1350U – Game Engine Design & Implementation
+# ProjectM-CG
  Intro to Comptuer Graphics Project M forked version
 
  *Group and Contributions*
@@ -80,6 +80,8 @@ These are: toon shader and a dynamic specular powered shader. These were done by
  **Deuteranope LUT**
 
  ![Deuteranope Lut](https://github.com/alex-memo/ProjectM-CG/blob/main/Deuteranope.png?raw=true)
+
+With these LUTs, the colour grading shaders were made. Purple LUT was made into a colour grading screen effect shader using shadergraph. The colour blindness colour grading screen effects makes use of code from Intro to Computer Graphics. This is implemented and finalized by Ethan using Canvas and Images.
 
  *Part 4: Shaders and Effects*
 
